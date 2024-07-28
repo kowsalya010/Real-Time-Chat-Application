@@ -1,0 +1,23 @@
+[WebSocket] Alice has joined the chat.
+[WebSocket] Bob has joined the chat.
+[WebSocket] Bob has joined the chat.
+[WebSocket] Charlie has joined the chat.
+[WebSocket] Charlie has joined the chat.
+[WebSocket] Charlie has joined the chat.
+[WebSocket] [Alice] Hello, everyone!
+[WebSocket] [Alice] Hello, everyone!
+[WebSocket] [Alice] Hello, everyone!
+[WebSocket] [Bob] How's it going?
+[WebSocket] [Bob] How's it going?
+[WebSocket] [Bob] How's it going?
+[WebSocket] [Charlie] Goodbye!
+[WebSocket] [Charlie] Goodbye!
+[WebSocket] [Charlie] Goodbye!
+Alice
+Bob
+Charlie
+[Alice] Hello, everyone!
+[Bob] How's it going?
+[Charlie] Goodbye!
+[WebSocket] Bob has left the chat.
+[WebSocket] Bob has left the chat.
